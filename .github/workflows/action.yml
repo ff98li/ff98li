@@ -27,4 +27,3 @@ jobs:
           plugin_posts_source: ffli.dev
           plugin_posts_limit: 4
           plugin_posts_descriptions: yes
-          plugin_posts_user: ff98li
