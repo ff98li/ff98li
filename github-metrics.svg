@@ -304,7 +304,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.49m out of 115m users</span>
+                                    <span class="gh">ranked 1.50m out of 115m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -434,7 +434,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.798994974874372 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.577889447236181 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -452,10 +452,10 @@
                                     <span class="prefix"></span>
                                     Follower
                                     <div class="value-wrapper">
-                                        <div class="value">20</div>
+                                        <div class="value">21</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 20 users</div>
+                                <div class="text">Following 21 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -686,7 +686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2023, 13:09:41 (timezone America/Toronto) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 May 2023, 14:13:21 (timezone America/Toronto) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
